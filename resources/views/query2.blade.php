@@ -32,7 +32,7 @@
             <div id="formContent" style="text-align: left; padding-left: 20px;">
 
                 <div class="fadeIn third" style="margin-top: 2%;">
-                    <h3>L'età media del genere {{$genereSelezionato}} è: {{$etaMedia}}</h3>
+                    <h3>L'età media del genere {{$genereSelezionato}} è: {{$etaMedia}} anni</h3>
                 </div>
 
 

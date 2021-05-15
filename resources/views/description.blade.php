@@ -25,7 +25,7 @@
 
             <div class="fadeIn third">
                 <h3 style="margin-top:50px;">4. Suggerisci una traccia per un utente</h3>
-                <p>Fissata un utente, suggerisce una traccia in base ai generi e alle playlist che ascolta.</p>
+                <p>Fissato un utente, suggerisce una traccia in base ai generi e alle playlist che ascolta.</p>
             </div>
 
             <div class="fadeIn fourth">
@@ -35,7 +35,7 @@
 
             <div class="fadeIn fourth">
                 <h3 style="margin-top:50px;">6. Suggerisci delle tracce per una playlist, in base alle tracce presenti in tutte le altre playlist</h3>
-                <p>Fissata una playlist di un utente, suggerisce delle tracce di artisti che l'utente ancora non conosce in base ai suoi gusti.</p>
+                <p>Fissata una playlist di un utente, suggerisce delle tracce che l'utente ancora non conosce in base al contenuto della sua e delle altre playlist.</p>
             </div>
 
             <br />
